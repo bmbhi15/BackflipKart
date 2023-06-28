@@ -1,0 +1,47 @@
+/* app.css */
+
+body {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #222;
+  }
+  
+  .header {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #111;
+  }
+  
+  .heading {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .content {
+    background-color: #333;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  
+  .section-heading {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .loading {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 40px;
+  }
+  
+  
